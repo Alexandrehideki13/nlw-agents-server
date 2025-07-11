@@ -15,6 +15,13 @@
       "when": 1752104295416,
       "tag": "0001_dapper_christian_walker",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752192392040,
+      "tag": "0002_yielding_professor_monster",
+      "breakpoints": true
     }
   ]
 }
